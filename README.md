@@ -66,3 +66,30 @@
 ## <a href="https://github.com/sanya2508/Hashing/blob/master/map%20stl(linked%20list%20vertical%20order%20print).cpp">Maps STL Example: Vertical Order Print </a>
 ## <a href="https://github.com/sanya2508/Hashing/blob/master/unordered_map%20stl.cpp">Unordered Map STL </a>
 ## <a href="https://github.com/sanya2508/Hashing/blob/master/unordered_map%20phonebook.cpp">Unordered Map Example: Phonebook </a>
+
+<hr/>
+
+## <a href="https://github.com/sanya2508/Hashing/blob/master/subarray_with_sum_zero.cpp">Check if there is subarray with sum zero</a>
+
+<hr/>
+
+## <a href="https://github.com/sanya2508/Hashing/blob/master/longest_subarray_with_sum_zero.cpp">Length of longest subarray with sum zero</a>
+
+<hr/>
+
+## <a href="https://github.com/sanya2508/Hashing/blob/master/longest_subarray_with_sum_k.cpp">Longest subarray with sum K</a>
+
+<hr/>
+
+## <a href="https://github.com/sanya2508/Hashing/blob/master/longest_consecutive_sequence.cpp">Longest consecutive subsequence</a>
+
+<hr/>
+
+## <a href="https://github.com/sanya2508/Hashing/blob/master/min%20window%20substring.cpp">Minimum Window Substring</a>
+*Given a string and a pattern, find minimum window in the string such that it contains all the elements of the pattern.*
+
+<hr/>
+
+## Right angled triangles count
+*Given Cartesian co-ordinate, find how many right angled triangles are there such that the perpendicular and base is parallet to x or y axis.*
+ * 
