@@ -1,10 +1,10 @@
 # Hashing/Hashtable
 
- * Purpose: To support insrtion, deletion and search in average-case constant time.
+ * Purpose: To support insertion, deletion and search in average-case constant time.
  * Assumption: Order of elements is irrelevant.
  * `Hash function`: Hash["string key"] ==> Integer value.
  * Key Components:
-    * Hash Fucntion.
+    * Hash Function.
     * Hash Table.
     * Collision Handling Scheme.
     
